@@ -8,7 +8,6 @@ Learn a scientific approach to solving problems with data, a foundational skill 
 ### Part 2: Data Wrangling
 Understand the most common data types. Understand the various sources of data. Make adjustments to dirty data to prepare a dataset. Identify and adjust for outliers. Learn to write queries to extract and analyze data from a relational database.
 - Project: [Create an Analytical Dataset](https://github.com/lllana/Udacity_Project2_Data-Wrangling)
-- Project: Create Reports from a Database
 
 ### Part 3: Classification Models
 You will use classification models, such as logistic regression, decision tree, forest, and boosted, to make predictions of binary and non-binary outcomes.
