@@ -1,4 +1,4 @@
-# Udacity_Predictive_Analytics_for_Business_Nanodegree
+# Udacity Predictive Analytics for Business Nanodegree
 
 ### Part 1: Problem Solving with Analytics
 Learn a scientific approach to solving problems with data, a foundational skill for anyone interested in making data driven decisions in a business context. 
