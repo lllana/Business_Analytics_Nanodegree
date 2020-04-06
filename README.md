@@ -19,4 +19,5 @@ Understand the fundamentals of A/B testing, including experimental design, varia
 
 ### Part 6: Time Series Forecasting
 Understand trend, seasonal, and cyclical behavior of time series data. Use time series decomposition plots. Build ETS and ARIMA models.
+- Project: [Time Series Forecasting](https://github.com/lllana/Udacity_Time_Series_Forecasting)
 
