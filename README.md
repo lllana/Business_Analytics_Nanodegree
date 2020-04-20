@@ -26,6 +26,8 @@ Preparing data, selecting variables for clustering. Building and applying K-cent
 - Project: Combining predictive techniques and delivering results.
 
 
+
 ![](certificate.png)
+
 https://confirm.udacity.com/JHT9VU2D
 
