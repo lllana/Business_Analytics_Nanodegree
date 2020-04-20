@@ -25,5 +25,7 @@ Understanding trend, seasonal, and cyclical behavior of time series data. Use ti
 Preparing data, selecting variables for clustering. Building and applying K-centroid cluster model. Data Visualization.  
 - Project: Combining predictive techniques and delivering results.
 
+
+![](certificate.png)
 https://confirm.udacity.com/JHT9VU2D
 
