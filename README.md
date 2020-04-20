@@ -23,7 +23,7 @@ Understanding trend, seasonal, and cyclical behavior of time series data. Use ti
 
 ### Part 6: Segmantation and Clastering
 Preparing data, selecting variables for clustering. Building and applying K-centroid cluster model. Data Visualization.  
-- Project: Combining predictive techniques and delivering results.
+- Project: [Combining predictive techniques and delivering results (https://github.com/lllana/Udacity_Combining_Predictive_Techniques_Project)
 
 
 
