@@ -21,7 +21,7 @@ Understanding the fundamentals of A/B testing, including experimental design, va
 Understanding trend, seasonal, and cyclical behavior of time series data. Use time series decomposition plots. Build ETS and ARIMA models.
 - Project: [Time Series Forecasting](https://github.com/lllana/Udacity_Time_Series_Forecasting)
 
-### Part 6: Segmantation and Clastering
+### Part 6: Segmentation and Clastering
 Preparing data, selecting variables for clustering. Building and applying K-centroid cluster model. Data Visualization.  
 - Project: [Combining predictive techniques and delivering results](https://github.com/lllana/Udacity_Combining_Predictive_Techniques_Project)
 
